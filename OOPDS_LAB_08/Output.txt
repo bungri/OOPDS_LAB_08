@@ -1,0 +1,70 @@
+
+Adding 0 into BinaryTree without Rebalancing
+Adding 1 into BinaryTree without Rebalancing
+Adding 2 into BinaryTree without Rebalancing
+Adding 3 into BinaryTree without Rebalancing
+Adding 4 into BinaryTree without Rebalancing
+Adding 5 into BinaryTree without Rebalancing
+Adding 6 into BinaryTree without Rebalancing
+Adding 7 into BinaryTree without Rebalancing
+Adding 8 into BinaryTree without Rebalancing
+Adding 9 into BinaryTree without Rebalancing
+Adding 10 into BinaryTree without Rebalancing
+Adding 11 into BinaryTree without Rebalancing
+Adding 12 into BinaryTree without Rebalancing
+Adding 13 into BinaryTree without Rebalancing
+Adding 14 into BinaryTree without Rebalancing
+Adding 15 into BinaryTree without Rebalancing
+Adding 16 into BinaryTree without Rebalancing
+Adding 17 into BinaryTree without Rebalancing
+Adding 18 into BinaryTree without Rebalancing
+Adding 19 into BinaryTree without Rebalancing
+
+Elements in BinaryTree, in order : 
+
+
+Print BinaryTree by Level : 
+
+Adding 0 into BinaryTree with Rebalancing
+
+Adding 1 into BinaryTree with Rebalancing
+
+Adding 2 into BinaryTree with Rebalancing
+
+Adding 3 into BinaryTree with Rebalancing
+
+Adding 4 into BinaryTree with Rebalancing
+
+Adding 5 into BinaryTree with Rebalancing
+
+Adding 6 into BinaryTree with Rebalancing
+
+Adding 7 into BinaryTree with Rebalancing
+
+Adding 8 into BinaryTree with Rebalancing
+
+Adding 9 into BinaryTree with Rebalancing
+
+Adding 10 into BinaryTree with Rebalancing
+
+Adding 11 into BinaryTree with Rebalancing
+
+Adding 12 into BinaryTree with Rebalancing
+
+Adding 13 into BinaryTree with Rebalancing
+
+Adding 14 into BinaryTree with Rebalancing
+
+Adding 15 into BinaryTree with Rebalancing
+
+Adding 16 into BinaryTree with Rebalancing
+
+Adding 17 into BinaryTree with Rebalancing
+
+Adding 18 into BinaryTree with Rebalancing
+
+Adding 19 into BinaryTree with Rebalancing
+
+
+Elements in BinaryTree, in order : 
+
